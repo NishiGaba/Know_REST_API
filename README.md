@@ -16,4 +16,7 @@ REST (Representational State Transfer) was introduced and defined in 2000 by Roy
 1. [spring.io](https://spring.io/understanding/REST)
 2. [diegohaz/rest](https://github.com/diegohaz/rest)
 
+## License
+
+MIT © [Nishi Gaba](https://github.com/NishiGaba)
 
